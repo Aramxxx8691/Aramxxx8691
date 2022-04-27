@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
     <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
-  </a>		for total 42 
+  </a> 
 </p>
 
 <p align="center">
