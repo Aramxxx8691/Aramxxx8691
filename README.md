@@ -36,17 +36,18 @@
     <img src="https://badgen.net/badge/Born2Code/arakhurs/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
 </p>
-<!--<p align="center">
-  <a href="https://github.com/madebypixel02/42-Madrid-Cursus">
-    <img src="https://badge42.vercel.app/api/v2/cl1kyexqa001109mf3u4zsrcw/stats?cursusId=21&coalitionId=65">
+
+<p align="center">
+  <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
+    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
   </a>		for total 42 
 </p>
 
 <p align="center">
-  <a href="https://github.com/madebypixel02/42-Madrid-Cursus">
+  <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=madebypixel02&repo=42-Madrid-Cursus&theme=vue-dark">
   </a>
-</p>-->
+</p>
 
 <!---
 Aramxxx8691/Aramxxx8691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
