@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madebypixel02&repo=42-Madrid-Cursus&theme=vue-dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aramxxx8691&repo=42-Yerevan-Armenia&theme=vue-dark">
   </a>
 </p>
 
