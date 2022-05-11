@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=blueberry">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=dark">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&theme=blueberry">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&theme=dark">
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aramxxx8691&repo=42-Yerevan-Armenia&theme=vue-dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aramxxx8691&repo=42-Yerevan-Armenia&theme=react">
   </a>
 </p>
 
