@@ -43,12 +43,6 @@
   </a> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aramxxx8691&repo=42-Yerevan-Armenia&theme=react">
-  </a>
-</p>
-
 <!---
 Aramxxx8691/Aramxxx8691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
