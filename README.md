@@ -3,9 +3,22 @@
 
 ## Hi There 👋
 
-* Graduated: UFAR Lyon 3 (Finance)
-* Also studying as student in 42 Yerevan Armenia
+## 🚀 About Me
 
+⚡I am Aram, an enthusiastic learner and developer👩‍💻! The world of computer science amazes 
+me and tackels my curiosity. ✨ I like to share my knowledge and experience, as well as teaching others as a mentor.
+I am also a student of 42 Yerevan programming school 🔥. 
+
+## 👨‍🎓 Education and Area of Interest
+
+- 🔭 Student of French University in Armenia (UFAR).
+- 🌱 Student of 42 Programming School in Yerevan.
+
+🎇 I am currently interested in,
+
+- Web Development (HTML/CSS/JS)
+- Game Development
+- IT Security
 
 ## Some Stats
 
