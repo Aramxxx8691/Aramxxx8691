@@ -22,8 +22,6 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 ## Some Stats
 
-* User Stats
-
 <p align="center">
   <a href="https://github.com/Aramxxx8691">
     <img src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=dark">
@@ -31,13 +29,16 @@ I am also a student of 42 Yerevan programming school 🔥.
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&show_icons=true&locale=en&layout=compact&theme=dark)
+<img align="left" alt="Pasquale Rossi GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=dark" />
+
 <p align="center">
   <a href="https://github.com/Aramxxx8691">
     <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
   </a>
 </p>
 
-* 42 Cursus Stats
+## 42 Cursus Stats
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/arakhurs">
