@@ -29,9 +29,6 @@ I am also a student of 42 Yerevan programming school 🔥.
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&show_icons=true&locale=en&layout=compact&theme=dark)
-<img align="left" alt="Pasquale Rossi GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=dark" />
-
 <p align="center">
   <a href="https://github.com/Aramxxx8691">
     <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
