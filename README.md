@@ -16,9 +16,10 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 🎇 I am currently interested in,
 
-- Web Development (HTML/CSS/JS)
+- Web Development
 - Game Development
 - IT Security
+- Date Base Analytics 
 
 ## Some Stats
 
