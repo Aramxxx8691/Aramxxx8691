@@ -18,7 +18,6 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 - Web Development
 - Game Development
-- IT Security
 - Date Base Analytics 
 
 ## Some Stats
