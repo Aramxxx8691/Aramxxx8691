@@ -7,18 +7,18 @@
 
 ⚡I am Aram, an enthusiastic learner and developer👩‍💻! The world of computer science amazes 
 me and tackels my curiosity. ✨ I like to share my knowledge and experience, as well as teaching others as a mentor.
-I am also a student of 42 Yerevan programming school 🔥. 
+I am also a student of 42 Yerevan international programming school 🔥. 
 
 ## 👨‍🎓 Education and Area of Interest
 
 - 🔭 Student of French University in Armenia (UFAR).
-- 🌱 Student of 42 Programming School in Yerevan.
+- 🌱 Student of 42 International Programming School in Yerevan.
 
 🎇 I am currently interested in,
 
 - Web Development
 - Game Development
-- Date Base Analytics 
+- Date Base Analytics
 
 ## Some Stats
 
