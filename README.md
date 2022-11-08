@@ -57,4 +57,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=c9s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 --->
