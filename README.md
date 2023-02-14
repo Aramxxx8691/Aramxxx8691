@@ -31,7 +31,7 @@ I am also a student of 42 Yerevan international programming school 🔥.
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691">
-    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </a>
 </p>
 
