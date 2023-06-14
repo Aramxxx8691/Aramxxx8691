@@ -27,7 +27,7 @@ I am also a student of 42 Yerevan international programming school 🔥.
 <p align="center">
   <a href="https://github.com/Aramxxx8691">
     <img src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&show_icons=true&locale=en&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark">
   </a>
 </p>
 
