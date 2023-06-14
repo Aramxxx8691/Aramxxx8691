@@ -39,6 +39,7 @@ I am also a student of 42 Yerevan international programming school 🔥.
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/arakhurs">
+    <img src="https://komarev.com/ghpvc/?username=Aramxxx8691&style=plastic">
     <img src="https://badgen.net/badge/Born2Code/arakhurs/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
 </p>
