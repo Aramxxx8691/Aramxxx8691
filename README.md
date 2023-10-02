@@ -48,7 +48,7 @@ I am also a student of 42 Yerevan international programming school 🔥.
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
-    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
+    <img src="https://badge.mediaplus.ma/greenbinary/arakhurs?1337Badge=off&UM6P=off">
   </a> 
 </p>
 
