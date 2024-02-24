@@ -20,7 +20,7 @@ I am also a student of 42 Yerevan international programming school 🔥.
 - Game Development
 - Date Base Analytics
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,docker,django,postgres)](https://skillicons.dev)
 
 ## Some Stats
 
