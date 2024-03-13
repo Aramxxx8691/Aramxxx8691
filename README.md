@@ -32,9 +32,9 @@ I am also a student of 42 Yerevan international programming school 🔥.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aramxxx8691/Aramxxx8691/feb5292943f9df78de3c0f5ffcc403523613564a/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aramxxx8691/Aramxxx8691/feb5292943f9df78de3c0f5ffcc403523613564a/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aramxxx8691/Aramxxx8691/feb5292943f9df78de3c0f5ffcc403523613564a/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 42 Cursus Stats
