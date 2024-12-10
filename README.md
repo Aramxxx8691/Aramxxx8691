@@ -1,6 +1,5 @@
 # Aramxxx8691 :smile:
 
-
 ## Hi There 👋
 
 ## 🚀 About Me
@@ -14,22 +13,29 @@ I am also a student of 42 Yerevan international programming school 🔥.
 - 🔭 Student of French University in Armenia (UFAR).
 - 🌱 Student of 42 International Programming School in Yerevan.
 
-🎇 I am currently interested in,
+## 🎇 I am currently interested in,
 
+- DevOps
 - Web Development
 - Game Development
 - Date Base Analytics
 
+## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,docker,django,postgres)](https://skillicons.dev)
 
-## Some Stats
+---
 
-<p align="center">
-  <a href="https://github.com/Aramxxx8691">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark">
-  </a>
-</p>
+## 🌐 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aramxxx8691&show_icons=true&locale=en&layout=compact&langs_count=8&theme=ocean_dark" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aramxxx8691&theme=ocean_dark&hide_border=false" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aramxxx8691&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
