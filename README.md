@@ -21,7 +21,8 @@ I am also a student of 42 Yerevan international programming school 🔥.
 - Date Base Analytics
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,docker,django,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,c,cpp,py,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,django,react,postgres,postman)](https://skillicons.dev)
 
 ---
 
