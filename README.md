@@ -6,7 +6,7 @@
 
 ⚡I am Aram, an enthusiastic learner and developer👩‍💻! The world of computer science amazes 
 me and tackels my curiosity. ✨ I like to share my knowledge and experience, as well as teaching others as a mentor.
-I am also a student of 42 Yerevan international programming school 🔥. 
+I am also a student of 42 Yerevan international programming school 🔥. For more you can see in my [CV](https://www.canva.com/design/DAGQ6RDjsx0/VoffyAXhHYJupO5pdGvhcQ/view?utm_content=DAGQ6RDjsx0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he58175309d).
 
 ## 👨‍🎓 Education and Area of Interest
 
