@@ -21,8 +21,8 @@ I am also a student of 42 Yerevan international programming school 🔥. For mor
 - Date Base Analytics
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,c,cpp,py,git,github,githubactions)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ansible,docker,kubernetes,aws,nginx,django,react,postgres,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,c,cpp,py,git,github,githubactions,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,terraform,prometheus,docker,kubernetes,aws,postman,nginx,django,react)](https://skillicons.dev)
 
 ---
 
