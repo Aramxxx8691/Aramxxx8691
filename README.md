@@ -10,8 +10,8 @@ I am also a student of 42 Yerevan international programming school 🔥.
 
 ## 👨‍🎓 Education and Area of Interest
 
-- 🔭 Student of French University in Armenia (UFAR).
-- 🌱 Student of 42 International Programming School in Yerevan.
+- 🔭 Alumni - French University in Armenia (UFAR) / Université Jean Moulin Lyon 3.
+- 🌱 Transcender - 42 International Programming School in Yerevan.
 
 ## 🎇 I am currently interested in,
 
